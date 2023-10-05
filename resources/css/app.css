@@ -1,0 +1,8 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+@import '@fortawesome/fontawesome-free/css/all.css';
+@import 'theme.css';
+@import 'nav.css';
+@import 'foot.css';
+@import 'home.css';
+@import 'card.css';
+@import 'button.css';

@@ -1,0 +1,32 @@
+:root{
+    --orange: #ff8500;
+    --orangedark: #ff5400;
+    --orangelight: #ff9e00;
+
+    --bluedark: #03045e;
+    --blue: #0077b6;
+    --bluelight: #00b4d8;
+
+    --reddark: #aa0000;
+    --red: #cd0000;
+    --redlight: #de1616;
+
+    --greendark: #10451d;
+    --green: #1a7431;
+    --greenlight: #25a244;
+
+    --black: #1b1b1b;
+}
+
+.link-orange{
+    color: var(--orange);
+    text-decoration: none;
+}
+.link-orange:hover{
+    color: var(--orangedark);
+    text-decoration: none;
+}
+
+.bg-orange{
+    background-color: var(--orange);
+}

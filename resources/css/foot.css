@@ -1,0 +1,21 @@
+@media screen and (max-width: 576px) {
+    .foot-pc{
+        display: none;
+    }
+}
+
+@media screen and (min-width: 576px) {
+    .foot-mobile{
+        display: none;
+    }
+}
+
+.bg-foot{
+    background-color: var(--black);
+    color: var(--orange);
+}
+
+.btn-foot{
+    background-color: var(--black);
+    color: var(--orange);
+}
